@@ -1,0 +1,10 @@
+Host github_dev
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa_dev
+
+Host github_ptit
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa_GS
+
